@@ -1,0 +1,1 @@
+AM incercat sa fac un proiect cu API si nu a mers nimic pentr ca totul e outdated. Bine, nu chiar tot, dar destul lucruri.
